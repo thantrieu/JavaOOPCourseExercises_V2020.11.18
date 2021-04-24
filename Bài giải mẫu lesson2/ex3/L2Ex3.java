@@ -3,7 +3,7 @@
  * @website: https://braniumacademy.net
  */
 
-public class L28Ex3 {
+public class L2Ex3 {
     public static void main(String[] args) {
         // tạo tài khoản với constructor 0 tham số:
         BankAccount account = new BankAccount();

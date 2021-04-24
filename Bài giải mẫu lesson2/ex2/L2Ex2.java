@@ -3,7 +3,7 @@
  * @website: https://braniumacademy.net
  */
 
-public class L28Ex2 {
+public class L2Ex2 {
     public static void main(String[] args) {
         // tạo địa chỉ của một ai đó với số nhà của họ:
         Address address1 = new Address("120A");

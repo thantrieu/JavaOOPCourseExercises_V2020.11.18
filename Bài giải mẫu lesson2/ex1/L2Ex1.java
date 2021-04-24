@@ -2,7 +2,7 @@
  * @author Branium Academy
  * @website: https://braniumacademy.net
  */
-public class L28Ex1 {
+public class L2Ex1 {
     public static void main(String[] args) {
         // gọi các phương thức khởi tạo khác nhau để tạo đối tượng
         // lưu ý rằng ở đây mỗi lần gọi constructor sẽ tạo một đối tượng
