@@ -3,7 +3,7 @@
  * @website: https://braniumacademy.net
  */
  
-public class L27Ex1 {
+public class L1Ex1 {
     public static void main(String[] args) {
         Employee nam = new Employee(); // tạo đối tượng của lớp Employee
         nam.fullName = "Trần Hoàng Nam"; // gán tên

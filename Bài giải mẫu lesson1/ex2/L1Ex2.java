@@ -3,7 +3,7 @@
  * @website: https://braniumacademy.net
  */
  
-public class L27Ex2 {
+public class L1Ex2 {
     public static void main(String[] args) {
         Address myAddress = new Address();
         myAddress.city = "Hà Nội";

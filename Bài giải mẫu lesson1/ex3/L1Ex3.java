@@ -5,7 +5,7 @@ import java.util.Scanner;
  * @website: https://braniumacademy.net
  */
  
-public class L27Ex3 {
+public class L1Ex3 {
     public static void main(String[] args) {
         // giả định nhập chuẩn thông tin:
         BankAccount acc = new BankAccount();
