@@ -5,7 +5,7 @@ import java.util.Scanner;
  * @address https://braniumacademy.net/
  */
 
-public class L30Ex4 {
+public class L4Ex4 {
     enum DayOfWeek {
         MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY
     }

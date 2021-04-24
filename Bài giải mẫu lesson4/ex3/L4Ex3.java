@@ -1,4 +1,3 @@
-import java.util.PrimitiveIterator;
 import java.util.Scanner;
 
 /**
@@ -6,7 +5,7 @@ import java.util.Scanner;
  * @address https://braniumacademy.net/
  */
 
-public class L30Ex3 {
+public class L4Ex3 {
     enum Zodiac {
         ARIES("BẠCH DƯƠNG"), TAURUS("KIM NGƯU"), GEMINI("SONG TỬ"),
         CANCER("CỰ GIẢI"), LEO("SƯ TỬ"), VIRGO("XỬ NỮ"),

@@ -5,7 +5,7 @@ import java.util.Scanner;
  * @address https://braniumacademy.net/
  */
 
-public class L30Ex1 {
+public class L4Ex1 {
     enum Season {
         SPRING("MÙA XUÂN"), SUMMER("MÙA HẠ"),
         FALL("MÙA THU"), WINTER("MÙA ĐÔNG");

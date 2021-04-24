@@ -5,7 +5,7 @@ import java.util.Scanner;
  * @address https://braniumacademy.net/
  */
 
-public class L30Ex2 {
+public class L4Ex2 {
     enum Zodiac {
         THE_RAT("TÝ"), THE_OX("SỬU"), THE_TIGER("DẦN"),
         THE_CAT("MÃO"), THE_DRAGON("THÌN"), THE_SNAKE("TỴ"),
