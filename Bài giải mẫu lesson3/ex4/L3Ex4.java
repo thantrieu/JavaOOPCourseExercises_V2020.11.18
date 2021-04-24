@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class L29Ex4 {
+public class L3Ex4 {
     public static void main(String[] args) {
         var input = new Scanner(System.in);
         System.out.println("Nhập số lượng môn học: ");

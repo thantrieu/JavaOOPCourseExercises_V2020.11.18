@@ -1,5 +1,3 @@
-package net.braniumacademy;
-
 /**
  * lớp mô tả thông tin đối tượng nhân viên
  *
