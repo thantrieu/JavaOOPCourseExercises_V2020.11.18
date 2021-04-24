@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @website: https://braniumacademy.net
  */
 
-public class L34Ex3 {
+public class L8Ex3 {
     public static void main(String[] args) {
         int choice = 0;
         ArrayList<Subject> subjects = new ArrayList<>();
